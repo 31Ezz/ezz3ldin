@@ -326,7 +326,6 @@ header{
 
 .hero .container .tow ul li{
  position: relative;
- /* width: 100%; */
  background-color: #09b0f76f;
  border-radius: 12px;
  padding: 10px 20px;
@@ -421,7 +420,6 @@ transition: transform 0.3s ease;
                         "one"
                         "tow"
                         "three";
-   /* height: auto; */
     }
 }
 
@@ -616,7 +614,7 @@ hr{
  section.contact1{
     margin: 20px 0;
     width: 100vw;
-    background-image: url(images/contactbg.jpeg) ;
+    background-image: url(images/contactbg.webp) ;
     background-repeat: no-repeat;
     padding: 40px 0;
  }
